@@ -10,7 +10,7 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 **Habilidades em:** Python, SQL, Power BI e gestão de negócios.
 
 **Links:**
-* [LinkedIn]([https://www.linkedin.com/in/rodrigo-xavier-dos-santos-75174110a/](https://www.linkedin.com/in/rodrigo-xavier-dos-santos-75174110a/))
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-xavier-dos-santos-75174110a/)
 
 
 
