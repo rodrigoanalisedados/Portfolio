@@ -15,15 +15,15 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 
 
 ## Projetos:
-Projetos SQL:
+Análise de dados com SQL:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
-Projetos Python:
+Análise de dados com Python:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
-Projetos Power BI:
+Análise de dados no Power BI:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 
