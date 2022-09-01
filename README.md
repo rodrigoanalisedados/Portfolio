@@ -17,7 +17,7 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 ## Projetos:
 Análise de dados com SQL:
 
-* **Análise de dados do COVID-19 com SQL:** https://bit.ly/3cvnzQN
+* **Análise exploratória de dados reais do Covid-19 com SQL:** https://bit.ly/3cvnzQN
 
 Análise de dados com Python:
 
