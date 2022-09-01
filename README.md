@@ -1,4 +1,4 @@
-<p align="center">
+ com SQL<p align="center">
   <img src="banner2_1.png" >
 </p>
 
@@ -17,7 +17,7 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 ## Projetos:
 Análise de dados com SQL:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/3cvnzQN
+* **Análise de dados do COVID-19 com SQL:** https://bit.ly/3cvnzQN
 
 Análise de dados com Python:
 
