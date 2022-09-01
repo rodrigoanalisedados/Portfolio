@@ -17,7 +17,7 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 ## Projetos:
 Análise de dados com SQL:
 
-* **Como usar o Histograma para Data Science:** https://bityli.com/xMlXKKk
+* **Como usar o Histograma para Data Science:** https://bit.ly/3cvnzQN
 
 Análise de dados com Python:
 
