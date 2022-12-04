@@ -1,6 +1,4 @@
- com SQL<p align="center">
-  <img src="banner2_1.png" >
-</p>
+
 
 # RODRIGO XAVIER DOS SANTOS
 <sub>Meu portfólio de projetos em análise de dados.</sub>
