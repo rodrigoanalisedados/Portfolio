@@ -21,6 +21,8 @@ Análise de dados com SQL:
 
 Análise de dados com Python:
 
+* **Limpeza, tratamento e preparação dos dados de acidentes de trânsito no Brasil em 2022:** http://bit.ly/3iATaTG
+
 ##
 
 Análise de dados no Power BI:
