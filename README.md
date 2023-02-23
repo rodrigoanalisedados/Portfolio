@@ -9,6 +9,7 @@ Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBR
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-xavier-dos-santos-75174110a/)
+* [Medium](https://medium.com/@rodrigo.analise.dados)
 
 
 
