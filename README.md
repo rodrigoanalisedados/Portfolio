@@ -25,6 +25,6 @@ Análise de dados com Python:
 ##
 
 Análise de dados no Power BI:
-* [Dashboard de vendas]([https://medium.com/@rodrigo.analise.dados](https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
+* [Dashboard de vendas](https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
 ##
 
