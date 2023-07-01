@@ -1,9 +1,8 @@
-![](logo.png)
+![](logo2.png)
 
-# RODRIGO XAVIER DOS SANTOS
 <sub>Meu portfólio de projetos em análise de dados.</sub>
 
-Líder, autodidata, analista e inovador. Formado em Gestão Financeira pela ULBRA, Analista de Dados formado pela Data Science Academy (SQL, Python, Power BI), cursando MBA em Tecnologia para Negócios: AI, Data Science e Big Data pela PUC/RS).
+Sou um analista de dados com mais de 10 anos de experiência em liderança e gestão em diversas áreas de negócio. Com formação em Gestão Financeira pela ULBRA e Analista de Dados pela Data Science Academy (com habilidades em SQL, Python, Power BI e DAX), e MBA em Tecnologia para Negócios: AI, Data Science e Big Data pela PUC/RS.
 
 **Habilidades em:** Python, SQL, Power BI e gestão de negócios.
 
