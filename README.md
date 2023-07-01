@@ -1,4 +1,4 @@
-![](banner2_1.png)
+![](logo.png)
 
 # RODRIGO XAVIER DOS SANTOS
 <sub>Meu portfólio de projetos em análise de dados.</sub>
