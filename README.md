@@ -25,6 +25,6 @@ Análise de dados com Python:
 
 Análise de dados no Power BI:
 * [Dashboard de vendas](https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
-* [Dashboard do financeiro]([https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9](https://app.powerbi.com/view?r=eyJrIjoiMjlhOGZjMTktYTQ0MC00MDc2LTljZDAtMzQ0NjY3NjlkYWQ2IiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)https://app.powerbi.com/view?r=eyJrIjoiMjlhOGZjMTktYTQ0MC00MDc2LTljZDAtMzQ0NjY3NjlkYWQ2IiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
+* [Dashboard do financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjlhOGZjMTktYTQ0MC00MDc2LTljZDAtMzQ0NjY3NjlkYWQ2IiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
 ##
 
