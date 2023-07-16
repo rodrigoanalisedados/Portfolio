@@ -12,17 +12,18 @@ Sou um analista de dados com mais de 10 anos de experiência em liderança e ges
 
 
 
-## Projetos:
+##
+Projetos:
 Análise de dados com SQL:
 
 * **Análise exploratória de dados reais do Covid-19 com SQL:** https://bit.ly/3cvnzQN
 
+##
 Análise de dados com Python:
 
 * **Limpeza, tratamento e preparação dos dados de acidentes de trânsito no Brasil em 2022:** http://bit.ly/3iATaTG
 
 ##
-
 Análise de dados no Power BI:
 * [Dashboard de vendas](https://app.powerbi.com/view?r=eyJrIjoiOTVjNjc1YTAtNWRkOS00ZTVkLWI5NzktM2VhODFlOGRhZGJkIiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
 * [Dashboard do financeiro](https://app.powerbi.com/view?r=eyJrIjoiMjlhOGZjMTktYTQ0MC00MDc2LTljZDAtMzQ0NjY3NjlkYWQ2IiwidCI6ImUxMzc4OGViLTFkM2ItNDhkMi1iMTlmLTdmZTIyNjJhNjAyMyJ9)
